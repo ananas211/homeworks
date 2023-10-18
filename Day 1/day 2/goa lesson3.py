@@ -1,10 +1,10 @@
 # code with 20 errors
 
 # Error 1
-print("Hello, World)
+print("Hello, World")
 
 # Error 2 
-  print(beconator"
+  print("beconator")
 
 # Error 3
 (me_var 123 = 42
@@ -65,3 +65,4 @@ element = my_list[4]
 # Error 20
 for i in range(5):
 print(i)
+

@@ -3,7 +3,7 @@ print("this is goa day 2")
 #define variebles for curent family memeber ages 
 
 my_age=12
-MoM=35
+MoM_age=35
 DaD=39
 
 #print current ages 
@@ -16,7 +16,7 @@ print(f"DaD:{DaD}")
 #calculate ages after 5 years
 
 My_age_after_5_years=my_age+5
-MoM_age_after_5_years=MoM+5
+MoM_age_after_5_years=mom_age+5
 Dad_age_after_5_years=DaD+5
 
 
